@@ -19,7 +19,7 @@ StellarFlow allows users to send digital payments across borders using AI comman
 
 ## 💻 How It Works
 
-1. User enters payment command in the web interface  
+1. User enters payment command in the web  interface  
 2. AI processes the request and generates Stellar transaction  
 3. Transaction is submitted to Stellar testnet/mainnet  
 4. Confirmation and transaction hash displayed to user  
@@ -39,12 +39,7 @@ This project integrates with Stellar blockchain using a Lovable AI-powered proto
 
 ---
 
-
-
-> The video shows the AI interface, sending a transaction, and proof of Stellar integration.
-
----
-
+## 📸 Screenshots
 
 > Replace with your actual website screenshots
 
